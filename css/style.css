@@ -36,7 +36,7 @@ ul {
 }
 
 p {
-	background-color: lightgoldenrodyellow;
+	border: 3px solid black;
 }
 
 /**
@@ -46,5 +46,6 @@ p {
 
 header {
 	background-color: lightblue;
+	margin: 50px;
 
 }
