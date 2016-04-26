@@ -60,6 +60,7 @@ header {
 
 main {
 	background-color: lightcyan;
-	margin: 20px;
+	padding: 20px;
+	text-align: left;
 
 }
