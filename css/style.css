@@ -16,7 +16,7 @@
 }
 
 body {
-	margin: 0;
+	margin: 30px;
 }
 
 div {
@@ -29,10 +29,6 @@ div {
 	float: left;
 }
 
-ul {
-	width: 50%;
-	float: right;
-}
 
 p {
 	margin: 10px;
@@ -64,6 +60,7 @@ main {
 	padding: 20px;
 	text-align: left;
 	width: 960px;
+	height: 600px;
 
 
 }
