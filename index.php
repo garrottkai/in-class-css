@@ -11,7 +11,7 @@
 		<header>
 			<div class="container">
 				<a href="#">CSS practice</a>
-				<p>This is a paragraph containing lots of fascinating and informative textual content.</p>
+				<p id="width-50">This is a paragraph containing lots of fascinating and informative textual content.</p>
 				<ul>
 					<li>This is an item</li>
 					<li>This is another item</li>
