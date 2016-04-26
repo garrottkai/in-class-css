@@ -10,7 +10,7 @@
 
 .container {
 	font-family: Helvetica, sans-serif;
-	width: 960px;
+	width: 900px;
 	margin: 0 auto;
 
 }
@@ -31,7 +31,7 @@ div {
 
 
 p {
-	margin: 10px;
+	padding: 10px;
 
 }
 
@@ -44,7 +44,7 @@ header {
 	background-color: dodgerblue;
 	color: white;
 	height: 150%;
-	width: 960px;
+	width: 900px;
 	padding: 20px;
 
 
@@ -59,7 +59,7 @@ main {
 	background-color: lightcyan;
 	padding: 20px;
 	text-align: left;
-	width: 960px;
+	width: 900px;
 	height: 600px;
 
 
