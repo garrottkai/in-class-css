@@ -58,4 +58,6 @@ header {
 main {
 	border: 1px solid black;
 	background-color: lightsalmon;
+	margin: 20px;
+
 }
