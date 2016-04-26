@@ -1,0 +1,27 @@
+/**
+* CSS practice stylesheet
+* author: garrottkai@gmail.com
+**/
+
+/**
+* Body layout styles
+* -------------------------------
+**/
+
+.container {
+	font-family: Helvetica, sans-serif;
+	color: orange;
+	width: 960px;
+	margin: 0 auto;
+
+}
+
+div {
+	display: block;
+
+}
+
+/**
+* Header styles
+* ------------------------------
+**/
