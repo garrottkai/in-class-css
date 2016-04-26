@@ -17,6 +17,7 @@
 
 body {
 	margin: 30px;
+	width: 900px;
 }
 
 div {
@@ -46,6 +47,7 @@ header {
 	height: 150%;
 	width: 900px;
 	padding: 20px;
+	display: inline-block;
 
 
 }
